@@ -8,6 +8,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1. Import pandas library to read csv or excel file.
 2.Import LabelEncoder using sklearn.preprocessing library.
 3.Transform the data's using LabelEncoder.
@@ -15,6 +16,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 5.Find accuracy.
 6.Predict the values.
 7.End of the program.
+```
 
 ## Program:
 ```
