@@ -76,10 +76,15 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![decision tree classifier model](2.png)
 
 ![decision tree classifier model](3.png)
+
 ![decision tree classifier model](4.png)
+
 ![decision tree classifier model](5.png)
+
 ![decision tree classifier model](6.png)
+
 ![decision tree classifier model](7.png)
+
 ![decision tree classifier model](8.png)
 
 ## Result:
